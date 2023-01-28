@@ -23,7 +23,7 @@ function Footer() {
           </a>
         </li>
         <li>
-          <a href="discordapp.com/users/jamjam#6729">
+          <a href="https://discordapp.com/users/953099345329274981">
             <FontAwesomeIcon icon={faDiscord} inverse/>
           </a>
         </li>

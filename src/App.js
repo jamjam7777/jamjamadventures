@@ -5,7 +5,8 @@ import Header from './components/header/Header'
 
 function App() {
   return (
-    <div className='container'> 
+    <div> 
+    <Header/>
     <AdventureGallery/>
     <Footer/>
     </div>
