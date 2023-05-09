@@ -1,11 +1,22 @@
 
 
 const image = [
-    "IMG_1073.jpeg",
-    "IMG_2776.jpeg",
-    "IMG_2195.jpeg",
-    "IMG_2402.jpeg",
-    "IMG_3042.jpeg",
+    {
+      img: require("./assets/jpg/IMG_1073.jpeg")
+    },
+    {
+      img: require("./assets/jpg/IMG_2776.jpeg")
+    },
+    {
+      img: require("./assets/jpg/IMG_2195.jpeg")
+    },
+    {
+      img: require("./assets/jpg/IMG_2402.jpeg")
+    },
+    {
+      img: require("./assets/jpg/IMG_3042.jpeg")
+    },
+   
     "IMG_3371.jpeg",
     'IMG_3634.jpeg',
     'IMG_4286.jpeg',
