@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/jamjamadventures/static/css/main.9ac1a6ac.css",
-    "main.js": "/jamjamadventures/static/js/main.b6cfedab.js",
-    "static/js/787.f8f8664e.chunk.js": "/jamjamadventures/static/js/787.f8f8664e.chunk.js",
+    "main.js": "/jamjamadventures/static/js/main.65d4065b.js",
     "index.html": "/jamjamadventures/index.html",
     "main.9ac1a6ac.css.map": "/jamjamadventures/static/css/main.9ac1a6ac.css.map",
-    "main.b6cfedab.js.map": "/jamjamadventures/static/js/main.b6cfedab.js.map",
-    "787.f8f8664e.chunk.js.map": "/jamjamadventures/static/js/787.f8f8664e.chunk.js.map"
+    "main.65d4065b.js.map": "/jamjamadventures/static/js/main.65d4065b.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac1a6ac.css",
-    "static/js/main.b6cfedab.js"
+    "static/js/main.65d4065b.js"
   ]
 }
