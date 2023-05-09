@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/jamjamadventures/static/css/main.9ac1a6ac.css",
-    "main.js": "/jamjamadventures/static/js/main.b6cfedab.js",
-    "static/js/787.f8f8664e.chunk.js": "/jamjamadventures/static/js/787.f8f8664e.chunk.js",
+    "main.js": "/jamjamadventures/static/js/main.e89d39ae.js",
+    "static/media/IMG_2195.jpeg": "/jamjamadventures/static/media/IMG_2195.766b39c429afa78ff5c6.jpeg",
+    "static/media/IMG_3042.jpeg": "/jamjamadventures/static/media/IMG_3042.ac9b198dbde97865a019.jpeg",
+    "static/media/IMG_2402.jpeg": "/jamjamadventures/static/media/IMG_2402.38c63b63df09b7bd00e7.jpeg",
+    "static/media/IMG_2776.jpeg": "/jamjamadventures/static/media/IMG_2776.7e324a4275fc8dd9a9c2.jpeg",
+    "static/media/IMG_1073.jpeg": "/jamjamadventures/static/media/IMG_1073.6e8cf436b8024a22dd4e.jpeg",
     "index.html": "/jamjamadventures/index.html",
     "main.9ac1a6ac.css.map": "/jamjamadventures/static/css/main.9ac1a6ac.css.map",
-    "main.b6cfedab.js.map": "/jamjamadventures/static/js/main.b6cfedab.js.map",
-    "787.f8f8664e.chunk.js.map": "/jamjamadventures/static/js/787.f8f8664e.chunk.js.map"
+    "main.e89d39ae.js.map": "/jamjamadventures/static/js/main.e89d39ae.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac1a6ac.css",
-    "static/js/main.b6cfedab.js"
+    "static/js/main.e89d39ae.js"
   ]
 }
