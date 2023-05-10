@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jamjamadventures/static/css/main.9ac1a6ac.css",
-    "main.js": "/jamjamadventures/static/js/main.65d4065b.js",
+    "main.js": "/jamjamadventures/static/js/main.2cde925f.js",
     "index.html": "/jamjamadventures/index.html",
     "main.9ac1a6ac.css.map": "/jamjamadventures/static/css/main.9ac1a6ac.css.map",
-    "main.65d4065b.js.map": "/jamjamadventures/static/js/main.65d4065b.js.map"
+    "main.2cde925f.js.map": "/jamjamadventures/static/js/main.2cde925f.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac1a6ac.css",
-    "static/js/main.65d4065b.js"
+    "static/js/main.2cde925f.js"
   ]
 }
